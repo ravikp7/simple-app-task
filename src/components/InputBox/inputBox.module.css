@@ -1,0 +1,16 @@
+.inputBox {
+  font-size: 1.2rem;
+  width: 300px;
+  padding: 0.5rem;
+  outline: none;
+  border-radius: 0.3rem;
+  background: transparent;
+}
+
+.valid {
+  border: 0.5px solid grey;
+}
+
+.invalid {
+  border: 0.5px solid red;
+}
