@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/simple-app/static/css/main.e06c322f.chunk.css",
-    "main.js": "/simple-app/static/js/main.7fa6e719.chunk.js",
-    "main.js.map": "/simple-app/static/js/main.7fa6e719.chunk.js.map",
-    "runtime-main.js": "/simple-app/static/js/runtime-main.72f994ce.js",
-    "runtime-main.js.map": "/simple-app/static/js/runtime-main.72f994ce.js.map",
-    "static/js/2.ea6f282a.chunk.js": "/simple-app/static/js/2.ea6f282a.chunk.js",
-    "static/js/2.ea6f282a.chunk.js.map": "/simple-app/static/js/2.ea6f282a.chunk.js.map",
-    "index.html": "/simple-app/index.html",
-    "precache-manifest.74c3739725f7e9bd26c9b0e2f5cf877d.js": "/simple-app/precache-manifest.74c3739725f7e9bd26c9b0e2f5cf877d.js",
-    "service-worker.js": "/simple-app/service-worker.js",
-    "static/css/main.e06c322f.chunk.css.map": "/simple-app/static/css/main.e06c322f.chunk.css.map",
-    "static/js/2.ea6f282a.chunk.js.LICENSE.txt": "/simple-app/static/js/2.ea6f282a.chunk.js.LICENSE.txt",
-    "static/media/background.jpg": "/simple-app/static/media/background.e405b94d.jpg",
-    "static/media/logo-name.png": "/simple-app/static/media/logo-name.92ecfa0a.png"
+    "main.css": "/simple-app-task/static/css/main.e06c322f.chunk.css",
+    "main.js": "/simple-app-task/static/js/main.8d26af11.chunk.js",
+    "main.js.map": "/simple-app-task/static/js/main.8d26af11.chunk.js.map",
+    "runtime-main.js": "/simple-app-task/static/js/runtime-main.f3673682.js",
+    "runtime-main.js.map": "/simple-app-task/static/js/runtime-main.f3673682.js.map",
+    "static/js/2.ea6f282a.chunk.js": "/simple-app-task/static/js/2.ea6f282a.chunk.js",
+    "static/js/2.ea6f282a.chunk.js.map": "/simple-app-task/static/js/2.ea6f282a.chunk.js.map",
+    "index.html": "/simple-app-task/index.html",
+    "precache-manifest.b80d477143396840634829213de9cd7b.js": "/simple-app-task/precache-manifest.b80d477143396840634829213de9cd7b.js",
+    "service-worker.js": "/simple-app-task/service-worker.js",
+    "static/css/main.e06c322f.chunk.css.map": "/simple-app-task/static/css/main.e06c322f.chunk.css.map",
+    "static/js/2.ea6f282a.chunk.js.LICENSE.txt": "/simple-app-task/static/js/2.ea6f282a.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/simple-app-task/static/media/background.e405b94d.jpg",
+    "static/media/logo-name.png": "/simple-app-task/static/media/logo-name.92ecfa0a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.72f994ce.js",
+    "static/js/runtime-main.f3673682.js",
     "static/js/2.ea6f282a.chunk.js",
     "static/css/main.e06c322f.chunk.css",
-    "static/js/main.7fa6e719.chunk.js"
+    "static/js/main.8d26af11.chunk.js"
   ]
 }
