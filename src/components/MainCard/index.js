@@ -16,7 +16,7 @@ const MainCard = () => {
           backgroundImage: `url("${background}")`,
         }}
       >
-        <Link to="/signup"
+        <Link to="/simple-app-task/signup"
           style={{
             color: '#5FBB6D',
             textDecoration: 'none',

@@ -15,10 +15,10 @@ function App() {
       </header>
       <Router>
         <Switch>
-          <Route path="/" exact>
+          <Route path="/simple-app-task" exact>
             <MainCard />
           </Route>
-          <Route path="/signup" exact>
+          <Route path="/simple-app-task/signup" exact>
             <UserForm />
           </Route>
         </Switch>
